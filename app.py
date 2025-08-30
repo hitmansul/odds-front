@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 
-API_URL = https://odds-api-ovph.onrender.com"  # troque pela URL do Render
+API_URL = "https://odds-api-ovph.onrender.com/odds"  # troque pela URL do Render
 
 st.set_page_config(page_title="Comparador de Odds – Escanteios", layout="wide")
 
